@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=runtechx&locale=pt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=runtechx)](https://git.io/streak-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=runtechx&title=Commits,PullRequest,Stars,Followers&margin-w=15&column=-1" />
 
