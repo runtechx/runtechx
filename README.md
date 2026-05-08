@@ -12,6 +12,13 @@
 </p>
 
 
+<p align="center">
+
+
+[![committers.top badge](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/skillmio)
+[![committers.top badge](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/skillmio)
+
+</p>
 
 
 <!--
