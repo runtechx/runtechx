@@ -8,7 +8,7 @@ Aqui estão algumas das minhas estatísticas e atividade no GitHub.
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=runtechx&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=runtechx&title=-Repositories,-Issues,-Reviews&margin-w=15&column=-1" />
 </p>
 
 
