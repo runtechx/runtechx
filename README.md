@@ -1,6 +1,6 @@
 # GitHub Stats
 
-Aqui estão algumas das minhas estatísticas e atividade no GitHub.  
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=runtechx&locale=pt)](https://git.io/streak-stats)
