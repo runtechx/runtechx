@@ -15,6 +15,13 @@
 </div>
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=runtechx/OpenFirst&type=date&legend=top-left)](https://www.star-history.com/?repos=runtechx%2FOpenFirst&type=date&legend=top-left)
+
+
+
+
 <!--
 **runtechx/runtechx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
