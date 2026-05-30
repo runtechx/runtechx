@@ -23,7 +23,10 @@
 [![committers.top badge](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
 [![committers.top badge](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
 
+</div>
 
+<div align="right">
+  
 ![Profile](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=orange&abbreviated=true&label=profile+views)
 
 </div>
