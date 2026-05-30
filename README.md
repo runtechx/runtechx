@@ -11,9 +11,10 @@
 -->
 <p></p> 
 
+![](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=FC923E&abbreviated=true)
 [![committers.top badge](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
 [![committers.top badge](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
-<img src="https://komarev.com/ghpvc/?username=runtechx&label=Profile+Views&color=FC923E&style=flat-square" alt="visitors"/>
+
 </div>
 
 
