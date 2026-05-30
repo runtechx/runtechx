@@ -11,7 +11,7 @@
 -->
 <p></p> 
 
-![](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=FC923E&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=blue&abbreviated=true&label=profile+views)
 [![committers.top badge](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
 [![committers.top badge](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
 
