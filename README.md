@@ -7,8 +7,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=runtechx&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
 
 
-[![Angola](https://aktive.kerolloz.dev/angola/runtechx?label=committers.top%20rank%20Angola%20&color=orange)](https://user-badge.committers.top/angola_public/runtechx)
-![Profile](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=orange&abbreviated=true&label=profile+views)
+
+
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=runtechx&title=Commits,PullRequest,Stars,Followers&margin-w=15&column=-1" />
 
@@ -16,13 +16,26 @@
 
 -->
 
- 	
+[![committers.top badge](https://user-badge.committers.top/worldwide/runtechx.svg)](https://user-badge.committers.top/worldwide/runtechx)
+[![committers.top badge](https://user-badge.committers.top/angola/runtechx.svg)](https://user-badge.committers.top/angola/runtechx)
+[![committers.top badge](https://user-badge.committers.top/worldwide_public/runtechx.svg)](https://user-badge.committers.top/worldwide_public/runtechx)
+[![committers.top badge](https://user-badge.committers.top/angola_public/runtechx.svg)](https://user-badge.committers.top/angola_public/runtechx)
+[![committers.top badge](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
+[![committers.top badge](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
+
+
+![Profile](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=orange&abbreviated=true&label=profile+views)
+
 </div>
 
 
 
 
 <!--
+
+[![Angola](https://aktive.kerolloz.dev/angola/runtechx?label=committers.top%20rank%20Angola%20&color=orange)](https://user-badge.committers.top/angola_public/runtechx)
+
+
 **runtechx/runtechx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
