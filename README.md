@@ -8,8 +8,7 @@
 
 
 [![Angola](https://aktive.kerolloz.dev/angola/runtechx?label=committers.top%20rank%20Angola%20&color=orange)](https://user-badge.committers.top/angola_public/runtechx)
-
-![](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=orange&abbreviated=true&label=profile+views)
+![Profile](https://komarev.com/ghpvc/?username=runtechx&style=flat-square&color=orange&abbreviated=true&label=profile+views)
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=runtechx&title=Commits,PullRequest,Stars,Followers&margin-w=15&column=-1" />
 
