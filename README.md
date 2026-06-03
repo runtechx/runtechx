@@ -10,7 +10,7 @@
 
 <!--- BADGE TABLES --->
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://user-badge.committers.top/angola/runtechx">
@@ -46,7 +46,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <div align="right">
