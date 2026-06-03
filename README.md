@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
 
 <!--
-<!---https://github.com/kerolloz/aktive-->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=runtechx&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
 
 
