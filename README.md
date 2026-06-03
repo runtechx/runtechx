@@ -14,10 +14,11 @@
 [![Angola Overall](https://user-badge.committers.top/angola/runtechx.svg)](https://user-badge.committers.top/angola/runtechx)
 [![Angola Public](https://user-badge.committers.top/angola_public/runtechx.svg)](https://user-badge.committers.top/angola_public/runtechx)
 [![Angola Private](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
+[![Worldwide Private](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
 <!---
 [![Worldwide Overall](https://user-badge.committers.top/worldwide/runtechx.svg)](https://user-badge.committers.top/worldwide/runtechx)
 [![Worldwide Public](https://user-badge.committers.top/worldwide_public/runtechx.svg)](https://user-badge.committers.top/worldwide_public/runtechx)
-[![Worldwide Private](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
+
 --->
 </div>
 
