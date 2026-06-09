@@ -6,8 +6,8 @@
 > ⭐ Deixe uma estrela • 👤 Siga o projeto • 📢 Partilhe com a comunidade
 >
 > Cada apoio conta para levar o talento angolano mais longe.
---->
-
+<br>
+<br>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
