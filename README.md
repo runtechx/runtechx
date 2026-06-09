@@ -20,19 +20,64 @@
 
 </div>
 
+
 <!--- BADGE TABLES --->
 <div align="center">
 
-[![Angola Overall](https://user-badge.committers.top/angola/runtechx.svg)](https://user-badge.committers.top/angola/runtechx)
-[![Worldwide Overall](https://user-badge.committers.top/worldwide/runtechx.svg)](https://user-badge.committers.top/worldwide/runtechx)
-[![Angola Public](https://user-badge.committers.top/angola_public/runtechx.svg)](https://user-badge.committers.top/angola_public/runtechx)
-[![Worldwide Public](https://user-badge.committers.top/worldwide_public/runtechx.svg)](https://user-badge.committers.top/worldwide_public/runtechx)
-[![Angola Private](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
-[![Worldwide Private](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
+<table>
+<tr>
+<td align="center">
+
+<a href="https://user-badge.committers.top/angola/runtechx">
+  <img src="https://user-badge.committers.top/angola/runtechx.svg" alt="Angola Overall">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://user-badge.committers.top/worldwide/runtechx">
+  <img src="https://user-badge.committers.top/worldwide/runtechx.svg" alt="Worldwide Overall">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://user-badge.committers.top/angola_public/runtechx">
+  <img src="https://user-badge.committers.top/angola_public/runtechx.svg" alt="Angola Public">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://user-badge.committers.top/worldwide_public/runtechx">
+  <img src="https://user-badge.committers.top/worldwide_public/runtechx.svg" alt="Worldwide Public">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://user-badge.committers.top/angola_private/runtechx">
+  <img src="https://user-badge.committers.top/angola_private/runtechx.svg" alt="Angola Private">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://user-badge.committers.top/worldwide_private/runtechx">
+  <img src="https://user-badge.committers.top/worldwide_private/runtechx.svg" alt="Worldwide Private">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<!---  NOTICE  --->
 
 
 
