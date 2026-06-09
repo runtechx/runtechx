@@ -1,3 +1,4 @@
+<!---
 > [!IMPORTANT]
 >
 > **Já somos o repositório nº 1 em Angola. Agora vamos ao mundo!**
@@ -5,6 +6,7 @@
 > ⭐ Deixe uma estrela • 👤 Siga o projeto • 📢 Partilhe com a comunidade
 >
 > Cada apoio conta para levar o talento angolano mais longe.
+--->
 
 <div align="center">
   
@@ -36,9 +38,9 @@
 
 
 
-<!---
 
---->
+
+
 
 
 <div align="right">
