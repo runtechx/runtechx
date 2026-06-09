@@ -11,6 +11,8 @@
 <!--- START BADGE TABLES --->
 <div align="center">
 
+
+
 [![Angola Overall](https://user-badge.committers.top/angola/runtechx.svg)](https://user-badge.committers.top/angola/runtechx)
 [![Worldwide Overall](https://user-badge.committers.top/worldwide/runtechx.svg)](https://user-badge.committers.top/worldwide/runtechx)
 
@@ -19,9 +21,27 @@
 
 [![Angola Private](https://user-badge.committers.top/angola_private/runtechx.svg)](https://user-badge.committers.top/angola_private/runtechx)
 [![Worldwide Private](https://user-badge.committers.top/worldwide_private/runtechx.svg)](https://user-badge.committers.top/worldwide_private/runtechx)
+
+</div>
+
+<!--- START BADGE TABLES --->
+<div align="left">
+  
+## 🚀 De Angola para o Mundo
+
+Graças ao apoio da comunidade, já somos o repositório mais popular de Angola no GitHub.
+
+O próximo objetivo é simples: mostrar ao mundo o talento e a inovação que existem em Angola.
+
+⭐ Deixe uma estrela
+
+👤 Siga o projeto
+
+📢 Partilhe com a comunidade
+
+Cada apoio conta. Vamos juntos levar este projeto ao próximo nível!
+
 <!---
-
-
 
 --->
 </div>
