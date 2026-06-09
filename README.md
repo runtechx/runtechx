@@ -8,10 +8,8 @@
 
 </div>
 
-<!--- START BADGE TABLES --->
+<!--- BADGE TABLES --->
 <div align="center">
-
-
 
 [![Angola Overall](https://user-badge.committers.top/angola/runtechx.svg)](https://user-badge.committers.top/angola/runtechx)
 [![Worldwide Overall](https://user-badge.committers.top/worldwide/runtechx.svg)](https://user-badge.committers.top/worldwide/runtechx)
@@ -24,30 +22,19 @@
 
 </div>
 
-<!--- START BADGE TABLES --->
+<!---  NOTICE  --->
 <div align="left">
+
   
-## 🚀 De Angola para o Mundo
 
-Graças ao apoio da comunidade, já somos o repositório mais popular de Angola no GitHub.
 
-O próximo objetivo é simples: mostrar ao mundo o talento e a inovação que existem em Angola.
 
-⭐ Deixe uma estrela
+</div>
 
-👤 Siga o projeto
-
-📢 Partilhe com a comunidade
-
-Cada apoio conta. Vamos juntos levar este projeto ao próximo nível!
 
 <!---
 
 --->
-</div>
-
-<!--- END BADGE TABLES --->
-
 
 
 <div align="right">
